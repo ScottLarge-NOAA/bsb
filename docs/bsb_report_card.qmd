@@ -225,3 +225,5 @@ We welcome your observations! Please contact [northeast.ecosystem.highlights@noa
 ::: {#refs}
 :::
 
+The code used to create this report can be viewed online: [github.com/NEFSC/READ-EDAB-bsbESP](https://github.com/NEFSC/READ-EDAB-bsbESP/tree/main)
+
