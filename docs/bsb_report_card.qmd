@@ -212,11 +212,11 @@ tbl
 ```
 
 \vspace{-0.4cm}
-\footnotesize \* The y-axis units are included in the "Indicator" column of the table. In all figures, the dashed line represents the time series mean, and the solid green lines indicate ± 1 standard deviation. Commercial data were derived from the commercial dealer database hosted at the Greater Atlantic Regional Office. All dollar values have been adjusted to 2024 real dollars using the [Gross Domestic Implicit Price Deflator](https://fred.stlouisfed.org/series/GDPDEF). The code used to create this report can be viewed online: [github.com/NEFSC/READ-EDAB-bsbESP](github.com/NEFSC/READ-EDAB/bsbESP) \newline
+\footnotesize \* The y-axis units are included in the "Indicator" column of the table. In all figures, the dashed line represents the time series mean, and the solid green lines indicate ± 1 standard deviation. Commercial data were derived from the commercial dealer database hosted at the Greater Atlantic Regional Office. All dollar values have been adjusted to 2024 real dollars using the [Gross Domestic Implicit Price Deflator](https://fred.stlouisfed.org/series/GDPDEF). \newline
 
 \centering\normalsize
 
-We welcome your observations! Please contact [northeast.ecosystem.highlights@noaa.gov](northeast.ecosystem.highlights@noaa.gov) with any on-the-water insights or changes observed in the black sea bass fishery and [nefsc.esp.leads@noaa.gov](nefsc.esp.leads@noaa.gov) with questions or comments on the information presented in this report.
+We welcome your observations! Please contact [northeast.ecosystem.highlights@noaa.gov](northeast.ecosystem.highlights@noaa.gov) with any on-the-water insights or changes observed in the black sea bass fishery and [nefsc.esp.leads@noaa.gov](nefsc.esp.leads@noaa.gov) with questions or comments on the information presented in this report. The code used to create this report can be viewed online: [github.com/NEFSC/READ-EDAB-bsbESP](https://github.com/NEFSC/READ-EDAB-bsbESP/tree/main).
 
 \newpage
 \newgeometry{top=1in, left=1in, right=1in, bottom=1in}
@@ -224,6 +224,3 @@ We welcome your observations! Please contact [northeast.ecosystem.highlights@noa
 # References
 ::: {#refs}
 :::
-
-The code used to create this report can be viewed online: [github.com/NEFSC/READ-EDAB-bsbESP](https://github.com/NEFSC/READ-EDAB-bsbESP/tree/main)
-
